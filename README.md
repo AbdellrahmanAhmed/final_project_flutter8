@@ -21,4 +21,5 @@ This project is for the Diploma of Filters 8 online, starting from 02/08/2021 to
 - [x] Make sure the internet is connected
 - [x] Error handling
 
-
+## 🤓 Author(s)
+**Olusegun Festus Babajide** [![Facebook Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
