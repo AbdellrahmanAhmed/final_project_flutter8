@@ -2,6 +2,7 @@
 
 
 ![This is an image](https://raw.githubusercontent.com/flutter/website/archived-master/src/_assets/image/flutter-lockup-bg.jpg)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ENG.3BDAIM/)
 # final_project_flutter8
 
 Flutter project.
@@ -22,4 +23,4 @@ This project is for the Diploma of Filters 8 online, starting from 02/08/2021 to
 - [x] Error handling
 
 ## 🤓 Author(s)
-[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ENG.3BDAIM/)]
+
