@@ -22,4 +22,4 @@ This project is for the Diploma of Filters 8 online, starting from 02/08/2021 to
 - [x] Error handling
 
 ## 🤓 Author(s)
-**Olusegun Festus Babajide** [![Facebook Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ENG.3BDAIM/)]
