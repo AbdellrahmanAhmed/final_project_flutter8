@@ -22,5 +22,4 @@ This project is for the Diploma of Filters 8 online, starting from 02/08/2021 to
 - [x] Make sure the internet is connected
 - [x] Error handling
 
-## 🤓 Author(s)
-
+## 📸 ScreenShots
