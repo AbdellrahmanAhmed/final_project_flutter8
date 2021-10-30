@@ -1,16 +1,22 @@
+	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=https://www.facebook.com/ENG.3BDAIM/
+  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+final textSvg = svg('Flutter', 'Abdellrahman');
+
+![This is an image](https://raw.githubusercontent.com/flutter/website/archived-master/src/_assets/image/flutter-lockup-bg.jpg)
 # final_project_flutter8
 
 Flutter project.
 
-## Getting Started
+## AMIT Learning.
 
-This project is a starting point for a Flutter application.
+This project is for the Diploma of Filters 8 online, starting from 02/08/2021 to 03/11/2021
 
-A few resources to get you started if this is your first Flutter project:
+[x] User Interface
+[x] Sign in and out
+[x] Saving user data and profile picture using Firebase
+[x] Pull data via API
+-AMIT Android Mobile API
+[x]Make sure the internet is connected
+[x] Error handling
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
