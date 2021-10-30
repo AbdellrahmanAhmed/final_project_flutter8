@@ -15,8 +15,7 @@ This project is for the Diploma of Filters 8 online, starting from 02/08/2021 to
 - [x] Saving user data and profile picture using Firebase
 - [x] Pull data via API
 - AMIT Android Mobile API
-
-- [x]Make sure the internet is connected
+- [x] Make sure the internet is connected
 - [x] Error handling
 
 
